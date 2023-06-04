@@ -1,0 +1,16 @@
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/bin/Debug/netstandard2.0/mandiritestoption2.deps.json
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/bin/Debug/netstandard2.0/mandiritestoption2.dll
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/bin/Debug/netstandard2.0/ref/mandiritestoption2.dll
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/bin/Debug/netstandard2.0/mandiritestoption2.pdb
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/mandiritestoption2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/View/NewsPage.xaml.g.cs
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/View/NewsSource.xaml.g.cs
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/View/NewsViewPage.xaml.g.cs
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/mandiritestoption2.AssemblyInfoInputs.cache
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/mandiritestoption2.AssemblyInfo.cs
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/mandiritestoption2.csproj.CoreCompileInputs.cache
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/mandiritestoption2.dll
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/ref/mandiritestoption2.dll
+/Users/mrarif/Projects/mandiritestoption2/mandiritestoption2/mandiritestoption2/obj/Debug/netstandard2.0/mandiritestoption2.pdb
